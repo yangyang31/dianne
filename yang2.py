@@ -45,5 +45,3 @@ st.write("""
     - **Facebook**: Dianne Espanto Libres Anggot
 """)
 
-# You can also include an image of yourself or something relevant to your studies
-st.image('yang.jpg', caption='A photo of me!', use_column_width=True)
