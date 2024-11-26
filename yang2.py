@@ -22,17 +22,17 @@ st.write("""
 st.header("Interests and Hobbies")
 st.write("""
     Outside of my academic studies, I have a variety of interests, including:
-    - Interest 1: e.g., Reading, Sports
-    - Interest 2: e.g., Drawing, Coding
-    - Interest 3: e.g., Music, Writing
+    - Interest 1: Reading, Sports
+    - Interest 2: Drawing, Coding
+    - Interest 3: Music, Writing
 """)
 
 # Skills and Achievements
 st.header("Achievements")
 st.write("""
     Some of the skills I have developed throughout my academic and personal journey include:
-    - Achievement 1: e.g., Academic Recognition
-    - Achievement 2: e.g., Projects
+    - Achievement 1: Academic Recognition
+    - Achievement 2: Projects
 """)
 
 # Contact Information (Optional)
