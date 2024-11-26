@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the webpage
-st.title("Biography of [Dianne]")
+st.title("Biography of Dianne")
 
 # Display your introduction
 st.header("Introduction")
