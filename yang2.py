@@ -2,7 +2,7 @@ import streamlit as st
 
 # Title of the webpage
 st.title("Biography of Dianne")
-st.image('yang.jpg', caption='A photo of me!', use_column_width=200)
+st.image('yang.jpg', caption='A photo of me!',width=200)
 
 # Display your introduction
 st.header("Introduction")
