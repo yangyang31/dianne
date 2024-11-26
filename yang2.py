@@ -40,7 +40,6 @@ st.header("Contact Information")
 st.write("""
     You can reach me at:
     - **Email**: [iane312005@gmail.com]
-    - **LinkedIn**: [Your LinkedIn Profile URL]
     - **GitHub**: [Your GitHub Profile URL]
 """)
 
