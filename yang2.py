@@ -45,4 +45,4 @@ st.write("""
 """)
 
 # You can also include an image of yourself or something relevant to your studies
-st.image('your-image.jpg', caption='A photo of me!', use_column_width=True)
+st.image('yang.jpg', caption='A photo of me!', use_column_width=True)
