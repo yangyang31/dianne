@@ -14,8 +14,8 @@ st.write("""
 # Education
 st.header("Education")
 st.write("""
-    - **2024 - Present School**:Surigao del Norte State University, BSCpE
-    - **2023 - Previous School**:St. John's School of Bacuag Inc. - Previous School, STEM
+    - **2024 - Present School** :Surigao del Norte State University, BSCpE
+    - **2023 - Previous School** :St. John's School of Bacuag Inc. , STEM
 """)
 
 # Interests and Hobbies
