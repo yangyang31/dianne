@@ -40,7 +40,7 @@ st.header("Contact Information")
 st.write("""
     You can reach me at:
     - **Email**: iane312005@gmail.com
-    - **GitHub**: Your GitHub Profile URL
+    - **Facebook**: Dianne Espanto Libres Anggot
 """)
 
 # You can also include an image of yourself or something relevant to your studies
